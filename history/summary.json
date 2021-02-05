@@ -4,17 +4,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-ecnu-overleaf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 934,
-    "timeWeek": 1100,
-    "timeMonth": 1046,
-    "timeYear": 1256,
-    "dailyMinutesDown": {}
+    "time": 1241,
+    "timeDay": 795,
+    "timeWeek": 1044,
+    "timeMonth": 1033,
+    "timeYear": 1241,
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   }
 ]
