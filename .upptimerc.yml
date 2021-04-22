@@ -8,7 +8,7 @@ sites:
     url: $SECRET_SITE
 
 assignees:
-  - 2014CAIS01
+  - cubercsl
   - cww97
 
 status-website:
