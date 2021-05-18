@@ -6,6 +6,9 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: MAIL-ECNU Overleaf
     url: $SECRET_SITE
+    expectedStatusCodes:
+      - 0
+      - 200
 
 assignees:
   - cubercsl
